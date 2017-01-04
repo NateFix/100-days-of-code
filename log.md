@@ -9,3 +9,12 @@
 
 **Link to work:** [My FreeCodeCamp Profile](https://www.freecodecamp.com/natefix)
 
+### Day 1: January 4th, 2017
+##### 
+
+**Today's Progress**: Less free time today.   Completed Day 2 of Wes Boss' 30 Days of Vanilla JS (JavaScript & CSS Clock). Revisited lectures and exercises from the DOM Manipulation section of Colt Steele's exellent Udemy "Web Developer Bootcamp" course.
+
+**Thoughts:**  After a few weeks off of regular coding my Sublime Text game is really sluggish, forgotten shortcuts etc.  Hopefully will be back up to some emblance of speed within a few days.  Thinking of subject matter and content to get onto the FreeCodeCamp tribute page ASAP.  Wes Boss course already raising plenty of unfamiliar material, I could easily spend hours thoroughly digesting each tutorial and solution but will try not to get too bogged down and focus on my own projects.
+
+
+
