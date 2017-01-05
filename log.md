@@ -14,7 +14,14 @@
 
 **Today's Progress**: Less free time today.   Completed Day 2 of Wes Boss' 30 Days of Vanilla JS (JavaScript & CSS Clock). Revisited lectures and exercises from the DOM Manipulation section of Colt Steele's exellent Udemy "Web Developer Bootcamp" course.
 
-**Thoughts:**  After a few weeks off of regular coding my Sublime Text game is really sluggish, forgotten shortcuts etc.  Hopefully will be back up to some emblance of speed within a few days.  Thinking of subject matter and content to get onto the FreeCodeCamp tribute page ASAP.  Wes Boss course already raising plenty of unfamiliar material, I could easily spend hours thoroughly digesting each tutorial and solution but will try not to get too bogged down and focus on my own projects.
+**Thoughts:**  After a few weeks off of regular coding my Sublime Text game is really sluggish, forgotten shortcuts etc.  Hopefully will be back up to some emblance of speed within a few days.  Thinking of subject matter and content to get onto the FreeCodeCamp tribute page ASAP.  Wes Bos course already raising plenty of unfamiliar material, I could easily spend hours thoroughly digesting each tutorial and solution but will try not to get too bogged down and focus on my own projects.
 
+### Day 2: January 5th, 2017
+##### 
 
+**Today's Progress**:   Completed Day 3 of Wes Bos' 30 Days of Vanilla JS (Playing with CSS variables and JS). Spent a couple hours tinkering and reviewing all 3 days solutions, trying (and for the most part failing) to recreate the unfamiliar CSS and JS code snippets.  Also reviewed the new community section set up in Wes' repo and compared notes.
+
+**Thoughts:**  So much to learn, but enjoying these tutorials immensely.  While I'm aware that this 100 day challenge is ideally for working on projects, I'm realising the bulk of my time will still likely be spent immersed in tutorials and exercises.  I have a heavy schedule of courses to work thru (primarily the Frontend Masters track), with regular check-ins at Free Code Camp along the way and at least a weekly Codewars kata session to gauge progress...
+
+**Link to work:** [CodePen JS30 progress so far](https://codepen.io/NateFix/)
 
