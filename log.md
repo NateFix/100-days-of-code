@@ -25,3 +25,12 @@
 
 **Link to work:** [CodePen JS30 progress so far](https://codepen.io/NateFix/)
 
+### Day 3: January 6th, 2017
+##### 
+
+**Today's Progress**:   Completed Day 4 of Wes Bos' 30 Days of Vanilla JS (Array Cardio Day 1). An amazing tutorial, such a great idea too honing in on arrays.  I struggled to complete any of these myself without assistance, let alone using the ES6 features in the given solutions.  Revisited the Colt Steele array tutorial and reviewed my FreeCodeCamp solutions using the array methods covered.  A solid couple hours at least put in today.
+
+**Thoughts:**  Much the same as yesterday.  I've also bookmarked Wes Bos' ES6 course for future study.  Enjoying his teaching a lot.  Despite feeling still very inept am aware that have covered a lot of ground in just a few short months and to keep at it.
+
+
+
