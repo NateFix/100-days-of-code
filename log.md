@@ -32,5 +32,15 @@
 
 **Thoughts:**  Much the same as yesterday.  I've also bookmarked Wes Bos' ES6 course for future study.  Enjoying his teaching a lot.  Despite feeling still very inept am aware that have covered a lot of ground in just a few short months and to keep at it.
 
+### Day 4: January 7th, 2017
+##### 
+
+**Today's Progress**:   Light day today as sunny afternoon turned into early Summer evening drinks...  Did however managed to find a good resource for reviewing differences between ES5 and ES6. Axel Rauschmayer's "Exploring ES6", specifically (http://exploringjs.com/es6/ch_core-features.html). Definitely needed this.
+
+**Thoughts:**  Looking forward to doing some form of coding or study daily already. Glad I took this opportunity.
+
+
+
+
 
 
