@@ -40,11 +40,11 @@
 **Thoughts:**  Looking forward to doing some form of coding or study daily already. Glad I took this opportunity.
 
 ### Day 5: January 8th, 2017
- +##### 
- +
- +**Today's Progress**:  Another light day.  Completed JavaScript 30 Day 5 - Flex Panel Image Gallery. Queued up the first five Frontend Masters lectures on the 'Beginner Developer' curriculum to work thru over the rest of Jan.
- +
- +**Thoughts:**  Really enjoying JS30 tutorials but hugely overwhelmed (and equally inspired) by all the new stuff.  Staying focussed on the fundamentals.
+##### 
+
+**Today's Progress**:  Another light day.  Completed JavaScript 30 Day 5 - Flex Panel Image Gallery. Queued up the first five Frontend Masters lectures on the 'Beginner Developer' curriculum to work thru over the rest of Jan.
+
+**Thoughts:**  Really enjoying JS30 tutorials but hugely overwhelmed (and equally inspired) by all the new stuff.  Staying focussed on the fundamentals.
 
 
 
