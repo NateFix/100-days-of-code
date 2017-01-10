@@ -46,6 +46,12 @@
 
 **Thoughts:**  Really enjoying JS30 tutorials but hugely overwhelmed (and equally inspired) by all the new stuff.  Staying focussed on the fundamentals.
 
+### Day 6 (...and Day 7): January 9th/10th, 2017
+#####
+
+**Today's Progress**:  Another late night turned into early morning session.  Completed Javascript 30 Day 6 - Ajax Type Ahead.  Really useful tutorial.  First review of regular expressions since Free Code Camp exercises some months back.
+
+**Thoughts:** Need to make an earlier start, past 2 days have been late night/early a.m and shorter sessions than I would like.  It is my kids school holidays though so...  
 
 
 
