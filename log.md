@@ -53,5 +53,12 @@
 
 **Thoughts:** Need to make an earlier start, past 2 days have been late night/early a.m and shorter sessions than I would like.  It is my kids school holidays though so...  
 
+### Day 7 (...and Day 8): January 10th/11th, 2017
+#####
+
+**Today's Progress**:  Another late night ...  Completed Javascript 30 Day 7 - Array Cardio Day 2.  Started Frontend Masters "Introduction to Web Development" video tutorial, but sleep got the better of me a few mins in.  More tomorrow.
+
+**Thoughts:** Loving this Wes Bos course so much.  So much to learn, in the CSS alone let alone the actual JS instruction, ES6 etc.  Going to revisit the material again and try and redo from memory in the near future.
+
 
 
