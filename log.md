@@ -60,5 +60,18 @@
 
 **Thoughts:** Loving this Wes Bos course so much.  So much to learn, in the CSS alone let alone the actual JS instruction, ES6 etc.  Going to revisit the material again and try and redo from memory in the near future.
 
+### Day 8 : January 11th, 2017
+#####
+
+**Today's Progress**:  Completed Javascript 30 Day 8 - Fun With HTML Canvas.  Tinkered with Canvas some more using examples from a couple of books (Eric Rowell's 'HTML5 Canvas Cookbook' and Steve & Jeff Fulton's 'HTML5 Canvas').
+
+**Thoughts:** Much like previous tutorials I've done using canvas the novelty wears off pretty quickly.  Undoubtedly can do some cool stuff though when the inclination arises.
+
+### Day 9 : January 12th, 2017
+#####
+
+**Today's Progress**:  Completed Javascript 30 Day 9 - Dev Tools Domination.  I have another Frontend Masters course on Dev Tools queued up for sometime in the near future.
+
+**Thoughts:** Lots of console commands I've never used before despite feeling quite confident at using Chrome Dev Tools after previous courses.  Again, loving this series of courses for that and many other reasons. Toying with starting the Daily CSS Images challenge other peeps are doing, but feel it might not be the best use of my time, will sleep on it...
 
 
